@@ -12,6 +12,8 @@ Microsoft 365 Copilot의 흥미로운 세계에 오신 것을 환영합니다!
 
 이 매력적인 대화형 랩을 통해 탐색해 나가며 창의력과 비즈니스 통찰력을 발휘할 준비를 할 수 있습니다. 이 연습이 끝나면 기업가적 성공의 길을 열어줄 포괄적인 자료 세트를 갖추게 됩니다. 회사 청소 기업을 현실로 만들어 보겠습니다!
 
+> **중요**: 이 연습에서는 Copilot 작업에 사용할 수 있는 프롬프트를 제공합니다. Copilot 탐험을 위한 *시작점*으로 사용해야 합니다. 이러한 프롬프트를 수정하고 사용자 고유의 프롬프트를 추가하여 Copilot과 반복 대화에 참여하고 생성되는 결과를 수정하는 것이 좋습니다. 연습 지침에 설명된 것과 정확히 일치하는 결과가 나오지 않을 수도 있지만 괜찮습니다. 요점은 Copilot으로 실험해 보는 것입니다.
+
 이 연습을 완료하는 데 약 **40**분 정도 소요됩니다.
 
 > **참고**: 이 연습을 수행하려면 조직의 **Microsoft 365 Copilot** 라이선스가 필요합니다.
@@ -51,7 +53,7 @@ Microsoft 365 Copilot의 흥미로운 세계에 오신 것을 환영합니다!
     How do I setup a new business in New York? Answer with a numbered list.
     ```
 
-1. 응답을 검토하고 필요에 따라 추가 질문을 합니다. 응답이 만족스러우면 응답 아래에 있는 **복사**(&#128461;) 아이콘을 사용하여 응답을 클립보드에 복사합니다. 기존 텍스트 뒤의 Word 문서에 붙여넣습니다. 그런 다음 뉴욕에서 비즈니스를 설정할 때 수행할 작업 목록을 제공하는 텍스트를 선택하고 선택한 텍스트의 맨 아래에 있는 Copilot 아이콘을 사용하여 텍스트를 표로 시각화합니다.
+1. 응답을 검토하고 필요에 따라 추가 질문을 합니다. 응답에 만족하면 클립보드에 복사합니다. 기존 텍스트 뒤의 Word 문서에 붙여넣습니다. 그런 다음 뉴욕에서 비즈니스를 설정할 때 수행할 작업 목록을 제공하는 텍스트를 선택하고 선택한 텍스트의 맨 아래에 있는 Copilot 아이콘을 사용하여 텍스트를 표로 시각화합니다.
 
     ![Copilot에게 표 형식으로 시각화하도록 요청하는 것을 보여 주는 스크린샷.](./Media/copilot-rewrite-as-table.png)
 
@@ -82,7 +84,7 @@ Microsoft 365 Copilot의 흥미로운 세계에 오신 것을 환영합니다!
 
     ![Copilot이 사업 계획 초안을 작성하는 것을 보여 주는 스크린샷.](./Media/copilot-draft-business-plan-prompt.png)
 
-    > **팁**: 프롬프트를 입력한 후 "/" Copilot을 입력하면 OneDrive 폴더의 문서를 찾아볼 수 있습니다. Copilot에서 문서를 제안하지 않으면 OneDrive가 아직 완전히 인덱싱되지 않았기 때문일 수 있습니다. 이 경우 프롬프트를 `Write a business plan for "Contoso Cleaning", a commercial cleaning buisness in New York. Include an executive summary, market overview, and financial projections.`로 수정합니다.
+    > **팁**: 프롬프트를 입력한 후 "/" Copilot을 입력하면 OneDrive 폴더의 문서를 찾아볼 수 있습니다. Copilot에서 문서를 제안하지 않으면 OneDrive가 아직 완전히 인덱싱되지 않았기 때문일 수 있습니다. 이 경우 프롬프트를 `Write a business plan for "Contoso Cleaning", a commercial cleaning business in New York. Include an executive summary, market overview, and financial projections.`로 수정합니다.
 
 1. 응답을 생성하고 검토합니다. 그런 다음 그대로 두고, 톤과 길이를 조절하거나 Copilot에게 새 프롬프트로 다시 쓰도록 요청합니다. OneDrive 폴더에 **Business Plan.docx** 이름으로 저장하기 전에 문서에 적절한 제목과 스타일을 적용하여 전문적인 느낌을 더합니다. 해당 문서는 다음과 비슷합니다.
 
@@ -130,8 +132,6 @@ Microsoft 365 Copilot의 흥미로운 세계에 오신 것을 환영합니다!
     ![Excel의 Copilot이 피벗 차트를 추가하는 것을 보여 주는 스크린샷.](./Media/copilot-excel-chart-design.png)
 
 1. 통합 문서를 저장하고 Excel을 닫습니다.
-
-방금 Word의 Copilot에서 만들어진 데이터를 사용하여 Excel에서 시각화했습니다. 다음 연습에서는 Outlook의 Copilot을 사용하여 수행한 작업에 대한 이메일을 작성하고 보내는 방법을 살펴보겠습니다.
 
 ## Copilot을 사용하여 프레젠테이션용 콘텐츠 만들기
 
