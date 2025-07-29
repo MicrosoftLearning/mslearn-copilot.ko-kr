@@ -144,12 +144,16 @@ Copilot의 도움으로 청소 비즈니스 아이디어에 대한 비즈니스 
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
     ```
+1. 프레젠테이션 디자인을 검토한 다음, **슬라이드 생성**을 선택합니다.
 
+    ![Word 문서에서 Copilot으로 만든 PowerPoint 프레젠테이션의 스크린샷.](./Media/copilot-generate-slides.png)
 1. Copilot은 프레젠테이션에서 슬라이드를 생성합니다.  이 프로세스는 몇 분 정도 걸릴 수 있으며 출력은 다른 테마로 다음과 같아야 합니다.
 
-    ![Word 문서에서 Copilot으로 만든 PowerPoint 프레젠테이션의 스크린샷.](./Media/copilot-powerpoint-create-image.png)
+    ![Word 문서에서 Copilot으로 만든 PowerPoint 프레젠테이션의 스크린샷.](./Media/generate-slides-copilot.png)
 
-1. 프레젠테이션에서 두 번째 마지막 슬라이드(Copilot이 생성한 경우 최종 *결론* 슬라이드 앞)를 선택합니다. 그런 다음, Copilot 창의 채팅 상자에서 **프롬프트 보기** 아이콘을 선택하고 **... 관련 슬라이드 추가** 프롬프트를 선택하여 `Add a slide about the benefits of an eco-friendly approach to cleaning.` 프롬프트를 사용한 새 슬라이드를 만듭니다.
+1. **유지**를 선택한 다음, PowerPoint 프레젠테이션의 오른쪽 아래에 있는 **보기**를 **정상**으로 설정합니다. ![PowerPoint 프레젠테이션, 새 슬라이드를 만들기 스크린샷](./Media/normal-presentation-view.png)
+
+1. 프레젠테이션에서 두 번째 마지막 슬라이드(Copilot이 생성한 경우 최종 *결론* 슬라이드 앞)를 선택합니다. 그런 다음, Copilot 창의 채팅 상자에서 `Add a slide about the benefits of an eco-friendly approach to cleaning.` 프롬프트를 사용하여 새 슬라이드를 만들도록 요청합니다.
 
     ![PowerPoint 프레젠테이션의 새 슬라이드를 만드는 방법을 보여 주는 스크린샷.](./Media/copilot-powerpoint-add-new-slide.png)
 
