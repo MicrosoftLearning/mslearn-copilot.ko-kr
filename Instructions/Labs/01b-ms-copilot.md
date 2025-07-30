@@ -78,7 +78,7 @@ Microsoft Copilot의 흥미로운 세계에 오신 것을 환영합니다!
     ```
 
 1. 응답을 검토합니다. 그런 다음 Microsoft Word 창의 **파일** 메뉴에서 새 빈 문서를 만듭니다. **Designer** 창이 열리면 창을 닫고 새 문서의 이름을 *문서*에서 `Business Plan`로 변경합니다.
-1. Copilot 창에서 생성된 비즈니스 플랜을 복사하여 비즈니스 플랜 문서에 붙여넣습니다.
+1. Copilot 창에서 생성된 비즈니스 계획을 복사하여 비즈니스 계획 문서에 붙여넣어 불필요한 Copilot 콘텐츠를 제거합니다.
 
     ![Copilot이 생성한 사업 계획이 포함된 Word 문서의 스크린샷.](./Media/generated-content.png)
 
@@ -113,7 +113,7 @@ Copilot의 도움으로 청소 사업 아이디어에 대한 사업 계획 초�
 1. 응답이 향후 5년 동안 예상되는 수익 테이블을 포함하는지 검토합니다.
 1. Excel에서 표를 편집하는 옵션이 표시되면 이 옵션을 선택하여 데이터 테이블이 포함된 새 통합 문서를 만듭니다. 그렇지 않으면 OneDrive 탭으로 돌아가서 **(+)** 버튼을 사용하여 새 **Excel 통합 문서**를 추가합니다. 그런 다음, Copilot 창의 데이터 테이블을 통합 문서로 복사합니다.
 
-1. 그런 다음 통합 문서의 이름을 `Financial Projections`(으)로 변경합니다. 다음과 같이 표시됩니다.
+1. 그런 다음 통합 문서의 이름을 `Financial projections`(으)로 변경합니다. 다음과 같이 표시됩니다.
 
     ![Copilot에서 생성된 데이터가 있는 Excel 통합 문서의 스크린샷.](./Media/generated-financials.png)
 
@@ -147,6 +147,8 @@ Copilot을 사용하여 청소 비즈니스를 위한 비즈니스 플랜을 세
 
 1. 프레젠테이션 제목 슬라이드의 제목에 청소 회사 이름을 입력하고 자막에 `Investor Opportunity`를 입력합니다.
 1. **두 개의 콘텐츠** 슬라이드 레이아웃(제목과 콘텐츠에 대한 두 개의 자리 표시자 포함)을 사용하여 새 슬라이드를 추가합니다.
+    ![새 두 콘텐츠 슬라이드의 스크린샷](./Media/two-content-slide.png)
+
 1. 슬라이드 제목을 `Benefits of Hiring a Commercial Cleaner`로 변경합니다.
 1. Copilot 창에서 다음 프롬프트를 입력합니다.
 
